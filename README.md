@@ -39,7 +39,7 @@ exoexpo/
 │       ├── components/
 │       └── App.jsx
 │
-├── exoplanets_clean.csv   # Dataset eksoplanet yang telah dibersihkan (sementara lokal)
+├── exoplanets.csv   # Dataset eksoplanet yang telah dibersihkan (sementara lokal)
 └── README.md
 ```
 
